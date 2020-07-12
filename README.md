@@ -4,6 +4,7 @@ My name is Natalie. I'm a full-stack engineer with experience in Ruby & JavaScri
 
 Follow me:
 Twitter - https://twitter.com/miss_cheese
+
 Medium - https://medium.com/@miss_cheese
 
 Have you guessed by now that I love cheese? ;)
