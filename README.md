@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Natalie. I'm a full-stack engineer with experience in Ruby & JavaScript frameworks. Before I learned to code, I organized developer conferences, so I know a lot about developer relations. 
+
+Follow me:
+Twitter - https://twitter.com/miss_cheese
+Medium - https://medium.com/@miss_cheese
+
+Have you guessed by now that I love cheese? ;)
+
 <!--
 **Miss-Cheese/Miss-Cheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
