@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Natalie. I'm a full-stack engineer with experience in Ruby & JavaScript frameworks. Before I learned to code, I organized developer conferences, so I know a lot about developer relations. 
+My name is Natalie. I'm a full-stack engineer working with Ruby & JavaScript frameworks. I used to organize droidcon NYC & droidcon SF developer conferences too.
 
 Follow me:
 Twitter - https://twitter.com/miss_cheese
