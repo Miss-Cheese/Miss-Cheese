@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Natalie. I'm a full-stack engineer working with Ruby & JavaScript frameworks. I used to organize droidcon NYC & droidcon SF developer conferences too.
+My name is Natalie. I'm a software engineer at Church Pension Group, where I build internal tools with Rails and React. I used to organize droidcon NYC & droidcon SF developer conferences too.
 
 Follow me:
 Twitter - https://twitter.com/miss_cheese
