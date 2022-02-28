@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Natalie. I'm a software engineer at Church Pension Group, where I build internal tools with Rails and React. I used to organize droidcon NYC & droidcon SF developer conferences too.
+My name is Natalie. I'm a software engineer at CoverMyMeds, where I build software to help people get the medicine they need to live healthier lives. I work with Rails and React, and always excited to learn something new.
+Prior to becoming an engineer, I used to organize droidcon Android developer conferences in NYC & SF.
 
 Follow me:
+Medium - https://medium.com/@miss_cheese
 Twitter - https://twitter.com/miss_cheese
 
-Medium - https://medium.com/@miss_cheese
-
-Have you guessed by now that I love cheese? ;)
+I'm based in New York City.
 
 <!--
 **Miss-Cheese/Miss-Cheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
