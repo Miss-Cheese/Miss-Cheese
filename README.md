@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Natalie. I'm a software engineer at CoverMyMeds, where I build software to help people get the medicine they need to live healthier lives. I work with Rails and React, and always excited to learn something new.
+My name is Natalie. I'm a full stack engineer at Project Ronin, where I help develop an end-to-end cancer care platform that helps doctors and patients make better-informed decisions about treatment. I work with Rails, Javascript and Kotlin, and always excited to learn something new.
 Prior to becoming an engineer, I used to organize droidcon Android developer conferences in NYC & SF.
 
 Follow me:
