@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Natalie. I'm a full stack engineer at Project Ronin, where I build software to develop an end-to-end cancer care platform that helps doctors and patients make better-informed decisions about treatment - https://www.projectronin.com/
-
-I work with Rails, Javascript and Kotlin, and always excited to learn something new.
+My name is Natalie. I'm a software developer at Oracle, where I build exciting new things in healthcare tech.
 Prior to becoming an engineer, I used to organize droidcon Android developer conferences in NYC & SF.
 
 Follow me:
